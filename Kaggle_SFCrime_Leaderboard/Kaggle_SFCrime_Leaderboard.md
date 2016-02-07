@@ -11,7 +11,8 @@ library(ggplot2)
 library(dplyr)
 page <- "https://www.kaggle.com/c/sf-crime/leaderboard"
 page.html <- read_html(page)
-leaderboard <- page.html %>% html_nodes("#leaderboard-table") %>% html_table() %>% .[[1]]
+leaderboard <- page.html %>% 
+  html_nodes("#leaderboard-table") %>% html_table() %>% .[[1]]
 
 names(leaderboard) <- c("rank","delta.1wk","team.name","score",
                         "num.entries","last.submission")
@@ -19,7 +20,10 @@ names(leaderboard) <- c("rank","delta.1wk","team.name","score",
 
 Calculate % of entries less than the benchmark of 32.89184
 ```{r}
-leaderboard %>% filter(score < 32.89184) %>% summarise(count = n()) %>% as.numeric(.)/length(leaderboard[,1])
+leaderboard %>% 
+  filter(score < 32.89184) %>% 
+  summarise(count = n()) %>% 
+  as.numeric(.)/length(leaderboard[,1])
 ```
 
 #### Plot #1
@@ -30,10 +34,13 @@ At first glance, there are some patterns evident in the data, by looking at the 
 * The competition is pretty tough up at the higher ranks (i.e. lower score)
 
 ```{r, warning=FALSE}
-ggplot(leaderboard, aes(num.entries, score)) + geom_point() + 
-     geom_hline(yintercept = 32.89184, color="red") + ggtitle(paste0("score vs. number entries (red line: benchmark) - ",Sys.Date()))
+ggplot(leaderboard, aes(num.entries, score)) + 
+     geom_point() + 
+     geom_hline(yintercept = 32.89184, color="red") + 
+     ggtitle(paste0("score vs. number entries (red line: benchmark) - ",
+                    Sys.Date()))
 ```
-
+![](https://raw.githubusercontent.com/bbrewington/mini-projects/master/Kaggle_SFCrime_Leaderboard/figs/score-vs-entries_2016-02-07.png)
 
 #### Plot #2
 
@@ -48,6 +55,7 @@ ggplot(leaderboard, aes(score, rank)) + geom_point() +
      theme(legend.position = "none")
 ```
 
+![](https://raw.githubusercontent.com/bbrewington/mini-projects/master/Kaggle_SFCrime_Leaderboard/figs/score-vs-rank_2016-02-07.png)
 Score ranges (as of 2/7/16)
 
 * `[2-4)`: 75.8%
