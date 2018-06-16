@@ -1,0 +1,281 @@
+link2,redirect_url,status
+https://docs.google.com/document/d/122GLuyEnhQbAFbOMGqnj4nSAD2OW13DpkAxsxsGJTsA/edit,https://docs.google.com/document/d/122GLuyEnhQbAFbOMGqnj4nSAD2OW13DpkAxsxsGJTsA/edit,Success: (200) OK
+http://www.codeforatlanta.org/,https://www.codeforatlanta.org/,Success: (200) OK
+https://www.codeforamerica.org/,https://www.codeforamerica.org/,Success: (200) OK
+https://www.opendatanetwork.com/,https://www.opendatanetwork.com/,Success: (200) OK
+http://geodata.johnscreekga.gov/,http://geodata.johnscreekga.gov/,Success: (200) OK
+https://policeview.johnscreekga.gov/,https://policeview.johnscreekga.gov/,Success: (200) OK
+http://opendata.atlantaregional.com/,http://opendata.atlantaregional.com/,Success: (200) OK
+http://www.atlantaga.gov/index.aspx?page%3D1197,http://www.atlantaga.gov/index.aspx?page%3D1197,Client error: (404) Not Found
+http://dpcd-coaplangis.opendata.arcgis.com/,http://dpcd-coaplangis.opendata.arcgis.com/,Success: (200) OK
+https://data.georgiaspatial.org/login.asp,https://data.georgiaspatial.org/login.asp,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/main/home.page,error,error
+http://data.coss.opendata.arcgis.com/,http://data-coss.opendata.arcgis.com/,Success: (200) OK
+http://data.georgiagio.opendata.arcgis.com/datasets,http://data-georgiagio.opendata.arcgis.com/datasets,Success: (200) OK
+http://data-tucker-ga.opendata.arcgis.com/,http://data-tucker-ga.opendata.arcgis.com/,Success: (200) OK
+https://get-dunwoody.opendata.arcgis.com/,https://get-dunwoody.opendata.arcgis.com/,Success: (200) OK
+http://data-decaturga.opendata.arcgis.com/,http://data-decaturga.opendata.arcgis.com/,Success: (200) OK
+https://data-chamblee.opendata.arcgis.com/,https://data-chamblee.opendata.arcgis.com/,Success: (200) OK
+http://data-brookhavenga.opendata.arcgis.com/,http://data-brookhavenga.opendata.arcgis.com/,Success: (200) OK
+https://map-cantonga.opendata.arcgis.com/,https://map-cantonga.opendata.arcgis.com/,Success: (200) OK
+http://get-cops.opendata.arcgis.com/,http://get-cops.opendata.arcgis.com/,Success: (200) OK
+https://www.opendatanetwork.com/entity/310M200US12060/Atlanta_Metro_Area_GA/demographics.population.count?ref%3Dsearch-entity%26year%3D2014,https://www.opendatanetwork.com/entity/310M200US12060/Atlanta_Metro_Area_GA/demographics.population.count?year=2016,Success: (200) OK
+https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml,https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml,Success: (200) OK
+https://www.data.gov/,https://www.data.gov/,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/paratransit,http://opendata.atlantaregional.com/datasets/paratransit,Success: (200) OK
+https://ucr.fbi.gov/crime-in-the-u.s,https://ucr.fbi.gov/crime-in-the-u.s,Success: (200) OK
+https://ucr.fbi.gov/ucr%23cius_hatecrime,https://www.fbi.gov/ucr%23cius_hatecrime,Client error: (404) Not Found
+https://www.splcenter.org/hate-map,https://www.splcenter.org/hate-map,Success: (200) OK
+https://www.splcenter.org/fighting-hate/hate-incidents,https://www.splcenter.org/fighting-hate/hate-incidents,Success: (200) OK
+https://usaelectionmonitor.ushahidi.io/views/map,https://usaelectionmonitor.ushahidi.io/views/map,Success: (200) OK
+http://opendata.atlantapd.org/,error,error
+http://www.atlantapd.org/i-want-to/crime-data-downloads,http://www.atlantapd.org/i-want-to/crime-data-downloads,Success: (200) OK
+https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv,https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/issues?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/issues?limit%3D20,Client error: (404) Not Found
+https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl%3D0,https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl%3D0,Success: (200) OK
+http://www.itsmarta.com/crimestats.aspx,https://www.itsmarta.com/crimestats.aspx,Success: (200) OK
+https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6,https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6,Success: (200) OK
+https://policeview.johnscreekga.gov/Government/Incidents/djtc-njyh,https://policeview.johnscreekga.gov/Government/Incidents/djtc-njyh,Success: (200) OK
+https://policeview.johnscreekga.gov/en/Government/Citation-Data-Analysis/q342-wx2j,https://policeview.johnscreekga.gov/en/Government/Citation-Data-Analysis/q342-wx2j,Success: (200) OK
+https://policeview.johnscreekga.gov/en/Government/Johns-Creek-Accident-Data-Analysis/nvrg-5r6z,https://policeview.johnscreekga.gov/en/Government/Johns-Creek-Accident-Data-Analysis/nvrg-5r6z,Success: (200) OK
+http://geodata.johnscreekga.gov/datasets/eb38ea13c0af4ba19d2a46c1972525a0_0,http://geodata.johnscreekga.gov/datasets/eb38ea13c0af4ba19d2a46c1972525a0_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/d68b70d926344b088382d3bf4651f827_0,http://geodata.johnscreekga.gov/datasets/d68b70d926344b088382d3bf4651f827_0,Client error: (404) Not Found
+https://sandysprings.data.socrata.com/dataset/Sandy-Springs-Police-Department/e83e-2fm7,https://sandysprings.data.socrata.com/dataset/Sandy-Springs-Police-Department/e83e-2fm7,Success: (200) OK
+http://sspd.maps.arcgis.com/apps/webappviewer/index.html?id%3D5ee268a6a1534324b7ac53f8fc5715e1,http://sspd.maps.arcgis.com/apps/webappviewer/index.html?id%3D5ee268a6a1534324b7ac53f8fc5715e1,Success: (200) OK
+https://github.com/uscensusbureau/citysdk,https://github.com/uscensusbureau/citysdk,Success: (200) OK
+http://www.census.gov/data/developers/data-sets.html,http://www.census.gov/data/developers/data-sets.html,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/worker-characteristics,http://opendata.atlantaregional.com/datasets/worker-characteristics,Success: (200) OK
+http://geodata.johnscreekga.gov/datasets?keyword%3Ddemographics%26sort_by%3Dname,http://geodata.johnscreekga.gov/datasets?keyword%3Ddemographics%26sort_by%3Dname,Client error: (404) Not Found
+http://www.census.gov/programs-surveys/cbp/data.html,http://www.census.gov/programs-surveys/cbp/data.html,Success: (200) OK
+http://insite.georgia.org,http://www.georgia.org/siteselector/,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/small-business-loans-2012,http://opendata.atlantaregional.com/datasets/small-business-loans-2012,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/small-business-loans-2013,http://opendata.atlantaregional.com/datasets/small-business-loans-2013,Success: (200) OK
+http://govathon.com/CDIA.ZIP,http://govathon.com/CDIA.ZIP,Client error: (404) Not Found
+http://govathon.com/Empowerment_Zones.zip,http://govathon.com/Empowerment_Zones.zip,Client error: (404) Not Found
+https://aca3.accela.com/atlanta_ga/Cap/CapHome.aspx?module%3DBuilding%26TabName%3DBuilding,https://aca3.accela.com/ATLANTA_GA/Error.aspx?ErrorId=e616bb9c72b140b6b5c246d7065bbebe,Success: (200) OK
+https://web.atlantaga.gov/blis/businesslookup.aspx,error,error
+https://nces.ed.gov/ccd/index.asp,https://nces.ed.gov/ccd/index.asp,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/library-community-facilities,http://opendata.atlantaregional.com/datasets/library-community-facilities,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/college-community-facilities,http://opendata.atlantaregional.com/datasets/college-community-facilities,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/schools-community-facilities,http://opendata.atlantaregional.com/datasets/schools-community-facilities,Success: (200) OK
+http://garc.maps.arcgis.com/apps/webappviewer/index.html?id%3D1a1d555b7e36403c80c454b51b0d9f13,http://garc.maps.arcgis.com/apps/webappviewer/index.html?id%3D1a1d555b7e36403c80c454b51b0d9f13,Success: (200) OK
+https://apsinsights.org/data-explorer/,https://apsinsights.org/data-explorer/,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/fire-stations-community-facilities,http://opendata.atlantaregional.com/datasets/fire-stations-community-facilities,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/emergency-medical-service-community-facilities,http://opendata.atlantaregional.com/datasets/emergency-medical-service-community-facilities,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BE3F1FF71-2448-408B-B517-1A2EAD467789%257D,error,error
+http://geodata.johnscreekga.gov/datasets/4a2dc3819adb42fca3549512de8f29c7_0,http://geodata.johnscreekga.gov/datasets/4a2dc3819adb42fca3549512de8f29c7_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/d06281587dc44743bfcc9f51c1be739c_0,http://geodata.johnscreekga.gov/datasets/d06281587dc44743bfcc9f51c1be739c_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/b90138a6920247fdb016a9dcbc12f504_0,http://geodata.johnscreekga.gov/datasets/b90138a6920247fdb016a9dcbc12f504_0,Client error: (404) Not Found
+http://opendata.atlantaregional.com/datasets/employment-estimates-by-census-tract-2012,http://opendata.atlantaregional.com/datasets/employment-estimates-by-census-tract-2012,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/employment-estimates-by-census-tract-2009,http://opendata.atlantaregional.com/datasets/employment-estimates-by-census-tract-2009,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/forecast-employment-change-by-industry-2015-to-2040,http://opendata.atlantaregional.com/datasets/forecast-employment-change-by-industry-2015-to-2040,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/plan-2040-forecasts-by-census-tract,http://opendata.atlantaregional.com/datasets/plan-2040-forecasts-by-census-tract,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/arc-employment-forecasts-series13,http://opendata.atlantaregional.com/datasets/arc-employment-forecasts-series13,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/employment-estimates,http://opendata.atlantaregional.com/datasets/employment-estimates,Success: (200) OK
+http://en.openei.org/wiki/Help:Energy_Hackathon_Resources,https://openei.org/wiki/Help:Energy_Hackathon_Resources,Success: (200) OK
+http://data.reeep.org/,http://data.reeep.org/,Success: (200) OK
+https://developer.epa.gov/,https://developer.epa.gov/,Success: (200) OK
+https://water.usgs.gov/maps.html,https://water.usgs.gov/maps.html,Success: (200) OK
+http://map.georgiadfirm.com/,http://map.georgiadfirm.com/,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/lakes-ponds-reservoirs-and-swamps-georgia,http://opendata.atlantaregional.com/datasets/lakes-ponds-reservoirs-and-swamps-georgia,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/river-basins-georgia,http://opendata.atlantaregional.com/datasets/river-basins-georgia,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-1999-adjusted,http://opendata.atlantaregional.com/datasets/landpro-1999-adjusted,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2001-adjusted,http://opendata.atlantaregional.com/datasets/landpro-2001-adjusted,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2003,http://opendata.atlantaregional.com/datasets/landpro-2003,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2005,http://opendata.atlantaregional.com/datasets/landpro-2005,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2007,http://opendata.atlantaregional.com/datasets/landpro-2007,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2008,http://opendata.atlantaregional.com/datasets/landpro-2008,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2009,http://opendata.atlantaregional.com/datasets/landpro-2009,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2010,http://opendata.atlantaregional.com/datasets/landpro-2010,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/landpro-2012,http://opendata.atlantaregional.com/datasets/landpro-2012,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/floodplains,http://opendata.atlantaregional.com/datasets/floodplains,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/gardens-farms-and-orchards,http://opendata.atlantaregional.com/datasets/gardens-farms-and-orchards,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/greenspace,http://opendata.atlantaregional.com/datasets/greenspace,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/river-basins-atlanta-region,http://opendata.atlantaregional.com/datasets/river-basins-atlanta-region,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/particulate-matter,http://opendata.atlantaregional.com/datasets/particulate-matter,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/lakes-ponds-reservoirs-and-swamps-atlanta-region,http://opendata.atlantaregional.com/datasets/lakes-ponds-reservoirs-and-swamps-atlanta-region,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/rivers-streams-atlanta-region,http://opendata.atlantaregional.com/datasets/rivers-streams-atlanta-region,Success: (200) OK
+http://govathon.com/Atlanta-Parks.zip,http://govathon.com/Atlanta-Parks.zip,Client error: (404) Not Found
+http://govathon.com/Rec-Centers.zip,http://govathon.com/Rec-Centers.zip,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/d37b403e0348407b89a7a0bdd578e994_0,http://geodata.johnscreekga.gov/datasets/d37b403e0348407b89a7a0bdd578e994_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/b9e71812dfe64003b3ed3fb9966131b3_0,http://geodata.johnscreekga.gov/datasets/b9e71812dfe64003b3ed3fb9966131b3_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/17fad65f892746eb87bbbaaf3a7bdf2f_0,http://geodata.johnscreekga.gov/datasets/17fad65f892746eb87bbbaaf3a7bdf2f_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/e44607728ab8467384a3342b512441cd_0,http://geodata.johnscreekga.gov/datasets/e44607728ab8467384a3342b512441cd_0,Client error: (404) Not Found
+http://data.coss.opendata.arcgis.com/datasets/d4411ef6c2464b7c9c3b05ae9240f098_103,http://data-coss.opendata.arcgis.com/datasets/d4411ef6c2464b7c9c3b05ae9240f098_103,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/9e294755834d4b118a63883510fa55ea_100,http://data-coss.opendata.arcgis.com/datasets/9e294755834d4b118a63883510fa55ea_100,Success: (200) OK
+https://www.census.gov/cgi-bin/geo/shapefiles/index.php,https://www.census.gov/cgi-bin/geo/shapefiles/index.php,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/cities-georgia,http://opendata.atlantaregional.com/datasets/cities-georgia,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/regional-commission-boundaries,http://opendata.atlantaregional.com/datasets/regional-commission-boundaries,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BCFD14605-344E-4640-A487-D078620264FB%257D,error,error
+http://opendata.atlantaregional.com/datasets/citizen-districts-2000,http://opendata.atlantaregional.com/datasets/citizen-districts-2000,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/urban-growth-policy-map-areas,http://opendata.atlantaregional.com/datasets/urban-growth-policy-map-areas,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/planning-areas,http://opendata.atlantaregional.com/datasets/planning-areas,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/superdistricts-2010,http://opendata.atlantaregional.com/datasets/superdistricts-2010,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/livable-centers-initiative,http://opendata.atlantaregional.com/datasets/livable-centers-initiative,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/neighborhood-planning-units-2015,http://opendata.atlantaregional.com/datasets/neighborhood-planning-units-2015,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/city-of-atlanta-neighborhood-statistical-areas,http://opendata.atlantaregional.com/datasets/city-of-atlanta-neighborhood-statistical-areas,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/city-of-atlanta-council-districts,http://opendata.atlantaregional.com/datasets/city-of-atlanta-council-districts,Success: (200) OK
+http://gis.atlantaga.gov/apps/gislayers/download/layers/gis_plan_beltline_tcu_corridor_st.zip,error,error
+https://municipal.systems/v1/municipalities/atl-ga/parcels?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/parcels?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/zones?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/zones?limit%3D20,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/d7df3bc55138483282757592c5650e25_0,http://geodata.johnscreekga.gov/datasets/d7df3bc55138483282757592c5650e25_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/1e03e5d6e8a54032a362382cc1312f2c_0,http://geodata.johnscreekga.gov/datasets/1e03e5d6e8a54032a362382cc1312f2c_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/9f4b508378934ae5b3dec5275b45ca9b_0,http://geodata.johnscreekga.gov/datasets/9f4b508378934ae5b3dec5275b45ca9b_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/bb7bfd735ea648299ded0579bb8ec89f_0,http://geodata.johnscreekga.gov/datasets/bb7bfd735ea648299ded0579bb8ec89f_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/2fab2c70146d4f089970460f575ca185_0,http://geodata.johnscreekga.gov/datasets/2fab2c70146d4f089970460f575ca185_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/494e5559923d4a23bb9eda40673a3dd2_0,http://geodata.johnscreekga.gov/datasets/494e5559923d4a23bb9eda40673a3dd2_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/774f52f47ad14a8389af0f851499e4d9_0,http://geodata.johnscreekga.gov/datasets/774f52f47ad14a8389af0f851499e4d9_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/202dc8481212475f9e105acd9a5effca_0,http://geodata.johnscreekga.gov/datasets/202dc8481212475f9e105acd9a5effca_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/2e765a9743d1447199c9d08a8b047370_0,http://geodata.johnscreekga.gov/datasets/2e765a9743d1447199c9d08a8b047370_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/fba81fd855da406fbcae13f159df7b54_0,http://geodata.johnscreekga.gov/datasets/fba81fd855da406fbcae13f159df7b54_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/a5dbda88f03142e784a43ae61e8bc5c3_0,http://geodata.johnscreekga.gov/datasets/a5dbda88f03142e784a43ae61e8bc5c3_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/27459e7b528c44cfa8c8d01ac39fb448_0,http://geodata.johnscreekga.gov/datasets/27459e7b528c44cfa8c8d01ac39fb448_0,Client error: (404) Not Found
+http://data.coss.opendata.arcgis.com/datasets/115bba1b0fb748649f684b1431f14a06_104,http://data-coss.opendata.arcgis.com/datasets/115bba1b0fb748649f684b1431f14a06_104,Success: (200) OK
+http://data-tucker-ga.opendata.arcgis.com/datasets/council-districts,http://data-tucker-ga.opendata.arcgis.com/datasets/council-districts,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/aerotropolis-boundary,http://opendata.atlantaregional.com/datasets/aerotropolis-boundary,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/employer-service-organizations,http://opendata.atlantaregional.com/datasets/employer-service-organizations,Success: (200) OK
+https://earthexplorer.usgs.gov/,https://earthexplorer.usgs.gov/,Success: (200) OK
+https://viewer.nationalmap.gov/basic/,https://viewer.nationalmap.gov/basic/,Success: (200) OK
+https://irma.nps.gov/DataStore/Reference/Profile/2222402,https://irma.nps.gov/DataStore/Reference/Profile/2222402,Success: (200) OK
+https://irma.nps.gov/DataStore/Reference/Profile/1035616,https://irma.nps.gov/DataStore/Reference/Profile/1035616,Success: (200) OK
+https://irma.nps.gov/DataStore/Reference/Profile/2225713,https://irma.nps.gov/DataStore/Reference/Profile/2225713,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/contour-lines,http://opendata.atlantaregional.com/datasets/contour-lines,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257B57BF2AF0-929D-43A7-B6D3-644F49009BB7%257D,error,error
+http://data.coss.opendata.arcgis.com/datasets/ac627b872b7c47e7ac577501f3ce36cc_109,http://data-coss.opendata.arcgis.com/datasets/ac627b872b7c47e7ac577501f3ce36cc_109,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/c79b6b66b3fa4585a2c92729e16c8e98_111,http://data-coss.opendata.arcgis.com/datasets/c79b6b66b3fa4585a2c92729e16c8e98_111,Success: (200) OK
+http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions.aspx,http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions.aspx,Success: (200) OK
+http://media.ethics.ga.gov/search/Lobbyist/Lobbyist_ByName.aspx,http://media.ethics.ga.gov/search/Lobbyist/Lobbyist_ByName.aspx,Success: (200) OK
+http://media.ethics.ga.gov/search/Financial/Financial_ByName.aspx,http://media.ethics.ga.gov/search/Financial/Financial_ByName.aspx,Success: (200) OK
+http://www.atlantaga.gov/index.aspx?page%3D204,http://www.atlantaga.gov/index.aspx?page%3D204,Client error: (404) Not Found
+http://www.atlantaga.gov/index.aspx?page%3D1014,http://www.atlantaga.gov/index.aspx?page%3D1014,Client error: (404) Not Found
+https://github.com/bbrewington/atlanta-salary-data,https://github.com/bbrewington/atlanta-salary-data,Success: (200) OK
+http://apps.who.int/gho/data/node.home,http://apps.who.int/gho/data/node.home,Success: (200) OK
+http://www.who.int/gho/en/,http://www.who.int/gho/en/,Success: (200) OK
+https://www.cdc.gov/datastatistics/,https://www.cdc.gov/datastatistics/,Success: (200) OK
+https://wonder.cdc.gov/,https://wonder.cdc.gov/,Success: (200) OK
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html?redirect%3D/home/rsds.asp,https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html?redirect%3D/home/rsds.asp,Success: (200) OK
+https://datawarehouse.hrsa.gov/,https://datawarehouse.hrsa.gov/,Success: (200) OK
+https://www.ers.usda.gov/data-products/food-access-research-atlas/,https://www.ers.usda.gov/data-products/food-access-research-atlas/,Success: (200) OK
+https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u,Success: (200) OK
+http://dph.georgia.gov/environmental-health-inspections,https://dph.georgia.gov/environmental-health-inspections,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/hospital-community-facilities,http://opendata.atlantaregional.com/datasets/hospital-community-facilities,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/public-health-maternal-health,http://opendata.atlantaregional.com/datasets/public-health-maternal-health,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/food-access-usda,http://opendata.atlantaregional.com/datasets/food-access-usda,Success: (200) OK
+http://www.dca.state.ga.us/housing/specialneeds/programs/homeless_count.asp,https://dca.ga.gov/wrong-url,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/HUD::revitalization-areas-by-block-group,http://opendata.atlantaregional.com/datasets/HUD::revitalization-areas-by-block-group,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/HUD::challenge-grantee-areas,http://opendata.atlantaregional.com/datasets/HUD::challenge-grantee-areas,Success: (200) OK
+http://www.zillow.com/atlanta-ga/home-values/,https://www.zillow.com/captchaPerimeterX/?url=%2fatlanta-ga%2fhome-values%2f&uuid=83595890-7116-11e8-b8f9-6fd1689c55ec&vid=,Success: (200) OK
+https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml,https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml,Success: (200) OK
+http://www.georgiaplanning.com/documents/atlas/mapsindex.htm,http://www.georgiaplanning.com/documents/atlas/mapsindex.htm,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BBD6D63F2-23C3-4282-895C-857570F46C7A%257D,error,error
+"https://www.broadbandmap.gov/summarize/state/georgia/msa-metropolitan-statistical-area/atlanta-sandy-springs-marietta,-ga-metro-area","https://www.broadbandmap.gov/summarize/state/georgia/msa-metropolitan-statistical-area/atlanta-sandy-springs-marietta,-ga-metro-area",Success: (200) OK
+http://opendata.atlantaregional.com/datasets/solid-waste-community-facilities,http://opendata.atlantaregional.com/datasets/solid-waste-community-facilities,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257B0C2A8929-0C3A-4088-91BB-0682A829DA91%257D,error,error
+http://www.atlantaga.gov/modules/showdocument.aspx?documentid%3D24176,http://www.atlantaga.gov/modules/showdocument.aspx?documentid%3D24176,Client error: (404) Not Found
+http://renewatlantabond.com/,http://renewatlantabond.com/,Success: (200) OK
+https://github.com/bbrewington/renew-atlanta,https://github.com/bbrewington/renew-atlanta,Success: (200) OK
+http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0,http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/314b173fd460423e84071ba17f7a61d1_0,http://geodata.johnscreekga.gov/datasets/314b173fd460423e84071ba17f7a61d1_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/4cf099dafa744d2d97830ce2ce32b186_0,http://geodata.johnscreekga.gov/datasets/4cf099dafa744d2d97830ce2ce32b186_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/7f7b7cf0e011470bbd4222c74d420cf3_0,http://geodata.johnscreekga.gov/datasets/7f7b7cf0e011470bbd4222c74d420cf3_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/ff5abc85e7c24a46b653dd21924a7f7d_0,http://geodata.johnscreekga.gov/datasets/ff5abc85e7c24a46b653dd21924a7f7d_0,Client error: (404) Not Found
+https://gis.sandyspringsga.gov/opendata/maps/PublicWorksStreetAtlas2016.pdf,https://gis.sandyspringsga.gov/opendata/maps/PublicWorksStreetAtlas2016.pdf,Success: (200) OK
+https://gis.sandyspringsga.gov/portal/apps/webappviewer/index.html?id%3D6a50dae4d52141ceb5cea314883b1f1f,https://gis.sandyspringsga.gov/portal/apps/webappviewer/index.html?id%3D6a50dae4d52141ceb5cea314883b1f1f,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/b4700d9b4b284fac9b9cb557b0018c91_1,http://data-coss.opendata.arcgis.com/datasets/b4700d9b4b284fac9b9cb557b0018c91_1,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/097a9f3cccbe476594d106bf373ad297_0,http://data-coss.opendata.arcgis.com/datasets/097a9f3cccbe476594d106bf373ad297_0,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/ffd26e5178ce4f90b68c3de5bb040d07_102,http://data-coss.opendata.arcgis.com/datasets/ffd26e5178ce4f90b68c3de5bb040d07_102,Success: (200) OK
+http://www.icpsr.umich.edu/icpsrweb/NACJD/gis/data.jsp,https://www.icpsr.umich.edu/icpsrweb/NACJD/gis/data.jsp,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/court-community-facilities,http://opendata.atlantaregional.com/datasets/court-community-facilities,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/correctional-institution-community-facilities,http://opendata.atlantaregional.com/datasets/correctional-institution-community-facilities,Success: (200) OK
+https://mrdata.usgs.gov/,https://mrdata.usgs.gov/,Success: (200) OK
+https://www2.usgs.gov/water/,https://www2.usgs.gov/water/,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/equitable-target-areas-2009,http://opendata.atlantaregional.com/datasets/equitable-target-areas-2009,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/equitable-target-areas-2015,http://opendata.atlantaregional.com/datasets/equitable-target-areas-2015,Success: (200) OK
+http://disc.library.emory.edu/atlantamaps/,http://disc.library.emory.edu/atlantamaps/,Success: (200) OK
+https://ie-cities-docs.run.aws-usw02-pr.ice.predix.io/,https://ie-cities-docs.run.aws-usw02-pr.ice.predix.io/,Success: (200) OK
+https://slack-files.com/T048Y4BRV-F5VF7J5HU-fd63033cd7,https://slack-files.com/T048Y4BRV-F5VF7J5HU-fd63033cd7,Client error: (404) Not Found
+https://github.com/CurrentByGE/ie-angular-cities-ref-app,https://github.com/CurrentByGE/ie-angular-cities-ref-app,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257B7071F158-DA0B-463E-A91F-E12D9AC11860%257D,error,error
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257B53101DB4-472F-4439-93DF-0DA237444B12%257D,error,error
+http://govathon.com/NEWMARKETTAXCREDIT.ZIP,http://govathon.com/NEWMARKETTAXCREDIT.ZIP,Client error: (404) Not Found
+http://opendata.atlantaregional.com/datasets/HUD::low-transportation-cost-index,http://opendata.atlantaregional.com/datasets/HUD::low-transportation-cost-index,Success: (200) OK
+http://safetydata.fra.dot.gov/OfficeofSafety/Default.aspx,http://safetydata.fra.dot.gov/OfficeofSafety/Default.aspx,Success: (200) OK
+https://www.walkscore.com/professional/walk-score-apis.php,https://www.walkscore.com/professional/walk-score-apis.php,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/state-highways,http://opendata.atlantaregional.com/datasets/state-highways,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/expressways-georgia,http://opendata.atlantaregional.com/datasets/expressways-georgia,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/railroads,http://opendata.atlantaregional.com/datasets/railroads,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/interstate-exits,http://opendata.atlantaregional.com/datasets/interstate-exits,Success: (200) OK
+http://geocounts.com/gdot/,http://geocounts.com/gdot/,Success: (200) OK
+http://www.dot.ga.gov/DS/Data,http://www.dot.ga.gov/DS/Data,Success: (200) OK
+http://www.dot.ga.gov/DS/Data%23tab-2,http://www.dot.ga.gov/DS/Data%23tab-2,Client error: (404) Not Found
+https://gdotbiext.dot.ga.gov/analytics/saw.dll?Dashboard,https://gdotbiext.dot.ga.gov/analytics/saw.dll?Dashboard,Client error: (400) Bad Request
+http://www.dot.ga.gov/BS/Projects/ProjectSearch,http://www.dot.ga.gov/BS/Projects/ProjectSearch,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/metro-atlanta-bicycle-facility-inventory-2014,http://opendata.atlantaregional.com/datasets/metro-atlanta-bicycle-facility-inventory-2014,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/bike-facility-inventory-2007,http://opendata.atlantaregional.com/datasets/bike-facility-inventory-2007,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/major-roads,http://opendata.atlantaregional.com/datasets/major-roads,Success: (200) OK
+http://garc.maps.arcgis.com/apps/webappviewer/index.html?id%3D025ca60f2ee54b779dc77209e51f3f25,http://garc.maps.arcgis.com/apps/webappviewer/index.html?id%3D025ca60f2ee54b779dc77209e51f3f25,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/regional-transportation-plan,http://opendata.atlantaregional.com/datasets/regional-transportation-plan,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/regional-transportation-plan-lines,http://opendata.atlantaregional.com/datasets/regional-transportation-plan-lines,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/regional-transportation-plan-points,http://opendata.atlantaregional.com/datasets/regional-transportation-plan-points,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transportation-investment-act,http://opendata.atlantaregional.com/datasets/transportation-investment-act,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transportation-investment-act-polygons,http://opendata.atlantaregional.com/datasets/transportation-investment-act-polygons,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transportation-investment-act-lines,http://opendata.atlantaregional.com/datasets/transportation-investment-act-lines,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transportation-investment-act-transit,http://opendata.atlantaregional.com/datasets/transportation-investment-act-transit,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/model-traffic-analysis-zones-2000,http://opendata.atlantaregional.com/datasets/model-traffic-analysis-zones-2000,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/model-traffic-analysis-zones-2010,http://opendata.atlantaregional.com/datasets/model-traffic-analysis-zones-2010,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transit-routes-2015,http://opendata.atlantaregional.com/datasets/transit-routes-2015,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transit-stops-2015,http://opendata.atlantaregional.com/datasets/transit-stops-2015,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/park-and-ride-locations,http://opendata.atlantaregional.com/datasets/park-and-ride-locations,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/regional-truck-routes,http://opendata.atlantaregional.com/datasets/regional-truck-routes,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/transit-rail-stations,http://opendata.atlantaregional.com/datasets/transit-rail-stations,Success: (200) OK
+http://www.atlantaregional.com/transportation/modeling/household-travel-survey,https://atlantaregional.org/transportation-mobility/modeling/household-travel-survey/,Success: (200) OK
+http://www.atlantaregional.com/transportation/transit/existing-regional-transit-system,https://atlantaregional.org/transportation-mobility/transit/transit-in-the-atlanta-region/,Success: (200) OK
+http://www.itsmarta.com/app-developer-resources.aspx,https://www.itsmarta.com/app-developer-resources.aspx,Success: (200) OK
+https://s3.amazonaws.com/martahack/afcdata_week.csv.zip,https://s3.amazonaws.com/martahack/afcdata_week.csv.zip,Success: (200) OK
+https://s3.amazonaws.com/martahack/afcdata_month.csv.zip,https://s3.amazonaws.com/martahack/afcdata_month.csv.zip,Success: (200) OK
+https://s3.amazonaws.com/martahack/apcdata_week.csv.zip,https://s3.amazonaws.com/martahack/apcdata_week.csv.zip,Success: (200) OK
+https://s3.amazonaws.com/martahack/apcdata_month.csv.zip,https://s3.amazonaws.com/martahack/apcdata_month.csv.zip,Success: (200) OK
+http://opendata.itsmarta.com/hackathon/,http://opendata.itsmarta.com/hackathon/,Success: (200) OK
+https://raw.githubusercontent.com/codeforatlanta/open-data/master/MARTA-SQL-Server.txt,https://raw.githubusercontent.com/codeforatlanta/open-data/master/MARTA-SQL-Server.txt,Success: (200) OK
+http://klingmandesign.com/marta/,http://klingmandesign.com/marta/,Success: (200) OK
+http://www.apta.com/resources/statistics/Documents/Forms/AllItems.aspx?RootFolder%3D%252fresources%252fstatistics%252fDocuments%252fRidership%26FolderCTID%3D0x0120006BE9AB89F00BAE4583BADAD635F81BA6,http://www.apta.com/resources/statistics/Documents/Forms/AllItems.aspx?RootFolder%3D%252fresources%252fstatistics%252fDocuments%252fRidership%26FolderCTID%3D0x0120006BE9AB89F00BAE4583BADAD635F81BA6,Success: (200) OK
+http://itsmarta.com/moremarta.aspx,https://itsmarta.com/moremarta.aspx,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/de788a3777814e0ebb201b6695e3e442_0,http://opendata.atlantaregional.com/datasets/de788a3777814e0ebb201b6695e3e442_0,Success: (200) OK
+https://www.dropbox.com/sh/i1pdkccpto3rcgk/8kvUniSjZr,https://www.dropbox.com/sh/i1pdkccpto3rcgk/AADeSMnFK-Bc8UaJC9cecy4ba?dl=0,Success: (200) OK
+http://www.atlantadowntown.com/_files/docs/atlanta_streetcar_route_8_12.pdf,https://www.atlantadowntown.com/_files/docs/atlanta_streetcar_route_8_12.pdf,Success: (200) OK
+https://municipal.systems/v1/municipalities/atl-ga/traffic_cameras?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/traffic_cameras?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/traffic_incidents?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/traffic_incidents?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/traffic_jams?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/traffic_jams?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/transit_routes?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/transit_routes?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/transit_stations?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/transit_stations?limit%3D20,Client error: (404) Not Found
+https://municipal.systems/v1/municipalities/atl-ga/transit_vehicles?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/transit_vehicles?limit%3D20,Client error: (404) Not Found
+https://relaybikeshare.socialbicycles.com/opendata,https://relaybikeshare.socialbicycles.com/opendata,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/Dunwoody::streets,http://opendata.atlantaregional.com/datasets/Dunwoody::streets,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/Dunwoody::bike-lanesroutes,http://opendata.atlantaregional.com/datasets/Dunwoody::bike-lanesroutes,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/Dunwoody::multi-use-paths,http://opendata.atlantaregional.com/datasets/Dunwoody::multi-use-paths,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/Dunwoody::sidewalks,http://opendata.atlantaregional.com/datasets/Dunwoody::sidewalks,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/87a17f7492554e2b942aaf275981d156_115,http://opendata.atlantaregional.com/datasets/87a17f7492554e2b942aaf275981d156_115,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/ee776b18fb724a59a7de5a3d2ca0eee0_101,http://data-coss.opendata.arcgis.com/datasets/ee776b18fb724a59a7de5a3d2ca0eee0_101,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/719cb9195d9b432481c5c2001dbce7d0_100,http://opendata.atlantaregional.com/datasets/719cb9195d9b432481c5c2001dbce7d0_100,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/traffic-cameras-sandy-springs-georgia,http://data-coss.opendata.arcgis.com/datasets/traffic-cameras-sandy-springs-georgia,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/road-event-open-data-sandy-springs-georgia,http://data-coss.opendata.arcgis.com/datasets/road-event-open-data-sandy-springs-georgia,Success: (200) OK
+http://data.coss.opendata.arcgis.com/datasets/536c2173075c48569b58b284a05aba95_114,http://data-coss.opendata.arcgis.com/datasets/536c2173075c48569b58b284a05aba95_114,Success: (200) OK
+https://brigades.opendatanetwork.com/CIVIC-ENGAGEMENT/Map-of-Georgia-Polling-Places/qc9y-qmyt,https://brigades.opendatanetwork.com/CIVIC-ENGAGEMENT/Map-of-Georgia-Polling-Places/qc9y-qmyt,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BB66F3C03-8F43-4A16-9865-23BD1E536A3E%257D,error,error
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257B9D6B0093-58FE-45E6-BDC9-55B993265A6C%257D,error,error
+http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0,http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0,Client error: (404) Not Found
+http://data.coss.opendata.arcgis.com/datasets/264eb8be832043aba237ee2feda1f7e5_110,http://data-coss.opendata.arcgis.com/datasets/264eb8be832043aba237ee2feda1f7e5_110,Success: (200) OK
+http://data-tucker-ga.opendata.arcgis.com/datasets/zoning-districts,http://data-tucker-ga.opendata.arcgis.com/datasets/zoning-districts,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/activity-centers,http://opendata.atlantaregional.com/datasets/activity-centers,Success: (200) OK
+http://opendata.atlantaregional.com/datasets/city-hall-community-facilities,http://opendata.atlantaregional.com/datasets/city-hall-community-facilities,Success: (200) OK
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BDF98E97E-BA8B-453E-A2AD-A7DFB74FF58A%257D,error,error
+http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid%3D%257BBBB7FC62-FE3D-4F87-9D19-BC3E965304D1%257D,error,error
+https://aca3.accela.com/atlanta_ga/default.aspx,https://aca3.accela.com/atlanta_ga/default.aspx,Success: (200) OK
+http://www.qpublic.net/ga/fulton/search.html,http://fultonassessor.org/,Success: (200) OK
+https://municipal.systems/v1/municipalities/atl-ga/events?limit%3D20,https://municipal.systems/v1/municipalities/atl-ga/events?limit%3D20,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0,http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0,Client error: (404) Not Found
+http://geodata.johnscreekga.gov/datasets/65b4974c90f8465a99fec4d4ff7d7b30_0,http://geodata.johnscreekga.gov/datasets/65b4974c90f8465a99fec4d4ff7d7b30_0,Client error: (404) Not Found
+http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102,http://data-coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102,Success: (200) OK
+http://data-tucker-ga.opendata.arcgis.com/datasets/proposed-land-use,http://data-tucker-ga.opendata.arcgis.com/datasets/proposed-land-use,Success: (200) OK
+http://arcgis.atlantaregional.com/arcgis/rest/services,http://arcgis.atlantaregional.com/arcgis/rest/services,Client error: (405) Method Not Allowed
+https://datagateway.nrcs.usda.gov/,https://datagateway.nrcs.usda.gov/,Success: (200) OK
